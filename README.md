@@ -2,7 +2,7 @@
 
 A beautiful, responsive memory card game built with React, TypeScript, and Tailwind CSS. Test your memory by matching pairs of cards in this engaging web-based game.
 
-![Memory Game Screenshot](https://images.unsplash.com/photo-1606333259737-5aa9237a4d5e?auto=format&fit=crop&q=80&w=1200&h=600)
+![Memory Game Screenshot](Homepage_Image.png)
 
 ## 🌟 Features
 
